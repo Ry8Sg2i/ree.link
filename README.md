@@ -1,6 +1,6 @@
 # ree_link
 
-A new Flutter project.
+ree.linkは自分の好きなブラウザを保持しておくために開発されました。
 
 ## Getting Started
 
